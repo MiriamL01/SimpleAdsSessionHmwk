@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleAdsSessionHmwk.Web", "SimpleAdsSessionHmwk.Web\SimpleAdsSessionHmwk.Web.csproj", "{C0C7498A-2A0A-4007-81A3-7A8AE28AE203}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleAdsSessionHmwk.Data", "SimpleAdsSessionHmwk.Data\SimpleAdsSessionHmwk.Data.csproj", "{A753548A-9878-4D40-9C53-DD75365FD11F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0C7498A-2A0A-4007-81A3-7A8AE28AE203}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0C7498A-2A0A-4007-81A3-7A8AE28AE203}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0C7498A-2A0A-4007-81A3-7A8AE28AE203}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0C7498A-2A0A-4007-81A3-7A8AE28AE203}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A753548A-9878-4D40-9C53-DD75365FD11F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A753548A-9878-4D40-9C53-DD75365FD11F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A753548A-9878-4D40-9C53-DD75365FD11F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A753548A-9878-4D40-9C53-DD75365FD11F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD2F6BE2-D4EF-4D2F-8E0A-AA4A519D3869}
+	EndGlobalSection
+EndGlobal
