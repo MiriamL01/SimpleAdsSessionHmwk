@@ -80,6 +80,8 @@ namespace SimpleAdsSessionHmwk.Data
             cmd.Parameters.AddWithValue("@id", id);
             connection.Open();
             cmd.ExecuteNonQuery();
+
+            //Added text to make change, to test changes in GitHub
         }
     }
 }
